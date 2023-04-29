@@ -647,6 +647,7 @@ header .navbar .cta-btn a:hover {
 
 .media-custom .media-body {
   padding: 30px;
+  height: 200px;
 }
 
 .media-custom .media-body h3 {
